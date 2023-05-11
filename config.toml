@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Global Azure 2023'
+theme = "yinyang"
+[params]
+mainSections = ["posts"]
+headTitle = "Global Azure 2023"
+[[params.socials]]
+name = "GitHub"
+link = "https://github.com/thorstenhans/global-azure-2023"
