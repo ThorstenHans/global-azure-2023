@@ -3,7 +3,7 @@ title: "Hello Global Azure 2023"
 description: "Let's jump right into Azure Static WebApps"
 tags:
   - Community
-date: "2023-05-11"
+date: "2023-05-11T12:00:00+02:00"
 categories:
   - Community
 menu: "main"

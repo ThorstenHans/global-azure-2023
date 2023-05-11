@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Global Azure 2023</title>
+    <link>http://example.org/categories/community/</link>
+    <description>Recent content in Community on Global Azure 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Global Azure 2023</title>
+      <link>http://example.org/posts/hello-global-azure/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hello-global-azure/</guid>
+      <description>Welcome to Global Azure 2023, the world&amp;rsquo;s largest event dedicated to Microsoft Azure! We are thrilled to have you join us for this exciting and informative event, which brings together Azure experts, enthusiasts, and professionals from around the world.
+Global Azure 2023 is a two-day event that will feature a wide range of sessions, workshops, and presentations on Azure-related topics, including cloud infrastructure, data management, app development, DevOps, security, and more.</description>
+    </item>
+    
+  </channel>
+</rss>
